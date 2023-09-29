@@ -1,0 +1,20 @@
+mochila_infantil = {
+	'id': 5,
+	'period': {'weight': 0.23, 'likelihood': {1.00, 0.98, 0.88, 0.60, 0.58, 0.55, 0.70, 0.65, 0.55, 0.50, 0.65, 0.70}},
+	'gender': {'weight': 0.00, 'likelihood': {1.00, 1.00, 1.00, 1.00, 1.00}},
+	'region': {'weight': 0.00, 'likelihood': {1.00, 1.00, 1.00, 1.00, 1.00}},
+	'age': {'weight': 0.14, 'likelihood': {0.30, 0.50, 1.00, 0.90, 0.45}},
+	'income': {'weight': 0.14, 'likelihood': {0.30, 0.60, 0.70, 0.90, 1.00}},
+	'primary_channel': {'weight': 0.00, 'likelihood': {1.00, 1.00, 1.00}},
+	'traffic_origin': {'weight': 0.00, 'likelihood': {1.00, 1.00, 1.00, 1.00, 1.00}},
+	'previous_complaints': {'weight': 0.09, 'likelihood': {0.20, 1.00}},
+	'recent_purchase': {'weight': 0.09, 'likelihood': {1.00, 0.00}},
+	'cluster_parents': {'weight': 0.18, 'likelihood': {1.00, 0.00}},
+	'cluster_fitness': {'weight': 0.0, 'likelihood': {0.00, 0.00}},
+	'cluster_electronics': {'weight': 0.0, 'likelihood': {0.00, 0.00}},
+	'cluster_foodsdrinks': {'weight': 0.0, 'likelihood': {0.00, 0.00}},
+	'cluster_toys': {'weight': 0.09, 'likelihood': {1.00, 0.50}},
+	'cluster_books': {'weight': 0.00, 'likelihood': {0.00, 0.00}},
+	'cluster_games': {'weight': 0.05, 'likelihood': {1.00, 0.00}},
+	'cluster_audio': {'weight': 0.00, 'likelihood': {1.00, 0.00}}
+}
